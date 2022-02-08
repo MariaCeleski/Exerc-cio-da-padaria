@@ -1,0 +1,16 @@
+C:\Users\Tuca\Nova pasta\workspace\Talk-exercicios\Exercício da padaria\bin\Debug\net5.0\Exercício da padaria.exe
+C:\Users\Tuca\Nova pasta\workspace\Talk-exercicios\Exercício da padaria\bin\Debug\net5.0\Exercício da padaria.deps.json
+C:\Users\Tuca\Nova pasta\workspace\Talk-exercicios\Exercício da padaria\bin\Debug\net5.0\Exercício da padaria.runtimeconfig.json
+C:\Users\Tuca\Nova pasta\workspace\Talk-exercicios\Exercício da padaria\bin\Debug\net5.0\Exercício da padaria.runtimeconfig.dev.json
+C:\Users\Tuca\Nova pasta\workspace\Talk-exercicios\Exercício da padaria\bin\Debug\net5.0\Exercício da padaria.dll
+C:\Users\Tuca\Nova pasta\workspace\Talk-exercicios\Exercício da padaria\bin\Debug\net5.0\ref\Exercício da padaria.dll
+C:\Users\Tuca\Nova pasta\workspace\Talk-exercicios\Exercício da padaria\bin\Debug\net5.0\Exercício da padaria.pdb
+C:\Users\Tuca\Nova pasta\workspace\Talk-exercicios\Exercício da padaria\obj\Debug\net5.0\Exercício da padaria.csproj.AssemblyReference.cache
+C:\Users\Tuca\Nova pasta\workspace\Talk-exercicios\Exercício da padaria\obj\Debug\net5.0\Exercício da padaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuca\Nova pasta\workspace\Talk-exercicios\Exercício da padaria\obj\Debug\net5.0\Exercício da padaria.AssemblyInfoInputs.cache
+C:\Users\Tuca\Nova pasta\workspace\Talk-exercicios\Exercício da padaria\obj\Debug\net5.0\Exercício da padaria.AssemblyInfo.cs
+C:\Users\Tuca\Nova pasta\workspace\Talk-exercicios\Exercício da padaria\obj\Debug\net5.0\Exercício da padaria.csproj.CoreCompileInputs.cache
+C:\Users\Tuca\Nova pasta\workspace\Talk-exercicios\Exercício da padaria\obj\Debug\net5.0\Exercício da padaria.dll
+C:\Users\Tuca\Nova pasta\workspace\Talk-exercicios\Exercício da padaria\obj\Debug\net5.0\ref\Exercício da padaria.dll
+C:\Users\Tuca\Nova pasta\workspace\Talk-exercicios\Exercício da padaria\obj\Debug\net5.0\Exercício da padaria.pdb
+C:\Users\Tuca\Nova pasta\workspace\Talk-exercicios\Exercício da padaria\obj\Debug\net5.0\Exercício da padaria.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercício da padaria/1.0.0": {
+        "runtime": {
+          "Exercício da padaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercício da padaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
